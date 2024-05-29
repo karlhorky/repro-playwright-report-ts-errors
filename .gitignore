@@ -1,0 +1,9 @@
+node_modules/
+/test-results/
+# Commented out to commit files to Git to show TypeScript failures
+# in GitHub Actions workflows
+# /playwright-report/
+/blob-report/
+/playwright/.cache/
+
+*.tsbuildinfo
